@@ -177,6 +177,9 @@ const App = () => {
         </div>
 
       </div>
+        <p className="text-center text-xs text-gray-400 mt-4">
+          Generated ❤️ by Loganathan C
+        </p>
     </div>
   );
 };
