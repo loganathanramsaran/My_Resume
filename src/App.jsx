@@ -121,8 +121,8 @@ const App = () => {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2 mt-3">
             <ContactItem Icon={MapPin} text="Salem" />
             <ContactItem Icon={Phone} text="+91 9655891732" />
-            <ContactItem Icon={Mail} text="loguflower3@gmail.com" link="mailto:loguflower3@gmail.com" />
-            <ContactItem Icon={Linkedin} text="linkedin/loganathan-ramsaran-538831219" link="https://www.linkedin.com/in/loganathan-ramsaran-538831219" isLink={true} />
+            <ContactItem Icon={Mail} text="loganathanfsd26@gmail.com" link="mailto:loganathanfsd26@gmail.com" />
+            <ContactItem Icon={Linkedin} text="linkedin/loganathanfsd26" link="https://www.linkedin.com/in/loganathan-ramsaran-538831219" isLink={true} />
             <div className="col-span-1 sm:col-span-2 lg:col-span-4">
               <ContactItem Icon={Link} text="https://myself2025.netlify.app/" link="https://myself2025.netlify.app/" isLink={true} />
             </div>
