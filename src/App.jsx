@@ -122,7 +122,7 @@ const App = () => {
             <ContactItem Icon={MapPin} text="Salem" />
             <ContactItem Icon={Phone} text="+91 9655891732" />
             <ContactItem Icon={Mail} text="loganathanfsd26@gmail.com" link="mailto:loganathanfsd26@gmail.com" />
-            <ContactItem Icon={Linkedin} text="linkedin/loganathanfsd26" link="https://www.linkedin.com/in/loganathan-ramsaran-538831219" isLink={true} />
+            <ContactItem Icon={Linkedin} text="linkedin/loganathanfsd26" link="https://www.linkedin.com/in/loganathanfsd26" isLink={true} />
             <div className="col-span-1 sm:col-span-2 lg:col-span-4">
               <ContactItem Icon={Link} text="https://loganathanfsd.netlify.app/" link="https://loganathanfsd.netlify.app/" isLink={true} />
             </div>
