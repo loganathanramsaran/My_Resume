@@ -124,7 +124,7 @@ const App = () => {
             <ContactItem Icon={Mail} text="loganathanfsd26@gmail.com" link="mailto:loganathanfsd26@gmail.com" />
             <ContactItem Icon={Linkedin} text="linkedin/loganathanfsd26" link="https://www.linkedin.com/in/loganathan-ramsaran-538831219" isLink={true} />
             <div className="col-span-1 sm:col-span-2 lg:col-span-4">
-              <ContactItem Icon={Link} text="https://myself2025.netlify.app/" link="https://myself2025.netlify.app/" isLink={true} />
+              <ContactItem Icon={Link} text="https://loganathanfsd.netlify.app/" link="https://myself2025.netlify.app/" isLink={true} />
             </div>
           </div>
         </header>
