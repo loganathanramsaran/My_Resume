@@ -115,7 +115,7 @@ const App = () => {
             LOGANATHAN C
           </h1>
           <p className="text-xl text-indigo-600 font-medium mt-1">
-            Full Stack Developer
+            Full Stack Developer | MERN Stack
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2 mt-3">
